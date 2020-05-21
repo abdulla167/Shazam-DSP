@@ -1,4 +1,4 @@
-from last_gui im
+from last_gui import Ui_MainWindow
 import sys
 from PyQt5 import QtWidgets
 from Spectrogram import Song
