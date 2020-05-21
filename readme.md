@@ -10,8 +10,7 @@
 ![first image](screenshot.png)
 
 # Note
-#####you should make a file of songs as a database for the application and pass its directory into shazam file in this line of init function.
-"self.read_songs("your file path here")"
+##### you should make a file of songs as a database for the application and pass its directory into shazam file in this line of init function. "self.read_songs("your file path here")"
 
 
 
